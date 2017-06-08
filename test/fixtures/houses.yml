@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  kingdom: MyString
+  status: MyString
+  faction: MyString
+  text: MyString
+
+two:
+  name: MyString
+  kingdom: MyString
+  status: MyString
+  faction: MyString
+  text: MyString
